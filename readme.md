@@ -53,7 +53,7 @@ Copy
 Edit
 VITE_RAPID_API_KEY=YOUR_RAPIDAPI_KEY_HERE
 👉 Get your key from RapidAPI
-
+```
 4. Run the project
 bash
 Copy
