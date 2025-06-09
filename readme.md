@@ -30,7 +30,7 @@
 
 ## ▶️ Live Demo
 
-👉
+👉 https://smart-brief-pi.vercel.app/
 
 ---
 
