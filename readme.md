@@ -24,7 +24,7 @@
 | State Management | Redux Toolkit (RTK Query)                     |
 | Summarization    | RapidAPI (Article Extractor & Summarizer API) |
 | Storage          | `localStorage` for summary history            |
-| Deployment       | Vercel / Netlify (Frontend)                   |
+| Deployment       | Vercel                                        |
 
 ---
 
